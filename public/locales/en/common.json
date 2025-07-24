@@ -694,6 +694,16 @@
         "uptime": "Uptime",
         "volumeAvailable": "Available"
     },
+    "dispatcharr": {
+        "dispatcharr.version": "Version",
+        "dispatcharr.channels": "Channels",
+        "dispatcharr.groups": "Groups",
+        "dispatcharr.state": "State",
+        "dispatcharr.avg_bitrate_kbps": "Avg Bitrate",
+        "dispatcharr.resolution": "Resolution",
+        "dispatcharr.clients": "Clients",
+        "dispatcharr.total_bytes": "Total Bytes"
+    },
     "mylar": {
         "series": "Series",
         "issues": "Issues",
